@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as r,b as n,t as s}from"./index-db1a8184.js";const t=a({},[["render",function(a,t){return e(),r("div",null,[n("h2",null,"Name1.vue：params："+s(a.$route.params)+"，name："+s(a.$route.name),1)])}]]);export{t as default};

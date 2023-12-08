@@ -1,0 +1,1 @@
+import{_ as r,r as s,o as a,c as t,b as e,t as n,d as o}from"./index-db1a8184.js";const u=r({},[["render",function(r,u){const d=s("router-view");return a(),t("div",null,[e("h2",null,"嵌套路由："+n(r.$route.params),1),o(d)])}]]);export{u as default};

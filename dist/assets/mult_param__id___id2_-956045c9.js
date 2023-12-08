@@ -1,0 +1,1 @@
+import{u as a,o as s,c as t,t as m}from"./index-db1a8184.js";const u={__name:"mult_param_[id]_[id2]",setup:u=>(a(),(a,u)=>(s(),t("p",null,"mult_param_[id]_[id2].vue："+m(a.$route.params),1)))};export{u as default};

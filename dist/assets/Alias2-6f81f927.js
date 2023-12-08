@@ -1,0 +1,1 @@
+import{_ as s,r as n,o as r,c as a,d as o,b as t}from"./index-db1a8184.js";const e={},i=t("h2",null," Alias2 ",-1);const l=s(e,[["render",function(s,t){const e=n("router-view");return r(),a("div",null,[i,o(e)])}]]);export{l as default};

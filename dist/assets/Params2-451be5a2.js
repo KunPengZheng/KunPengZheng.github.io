@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as r,t}from"./index-db1a8184.js";const e={style:{background:"#ee90c2"}};const o=s({},[["render",function(s,o){return a(),r("div",e,"Params多路径参数："+t(this.$route.params),1)}]]);export{o as default};

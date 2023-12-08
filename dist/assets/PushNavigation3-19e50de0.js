@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as s,t}from"./index-db1a8184.js";const e=a({},[["render",function(a,e){return r(),s("div",null,"DynamicNavigation3.vue: params: "+t(a.$route.params)+"， hash: "+t(a.$route.hash),1)}]]);export{e as default};
