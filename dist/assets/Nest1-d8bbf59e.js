@@ -1,1 +1,0 @@
-import{_ as r,r as t,o as s,c as a,b as n,t as c,d as _}from"./index-72b056de.js";const l={};function i(e,p){const o=t("router-view");return s(),a("div",null,[n("h2",null,"嵌套路由："+c(e.$route.params),1),_(o)])}const d=r(l,[["render",i]]);export{d as default};

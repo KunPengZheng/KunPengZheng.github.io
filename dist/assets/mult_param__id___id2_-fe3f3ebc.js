@@ -1,1 +1,0 @@
-import{u as e,o as t,c as r,t as _}from"./index-72b056de.js";const p={__name:"mult_param_[id]_[id2]",setup(o){return e(),(a,s)=>(t(),r("p",null,"mult_param_[id]_[id2].vue："+_(a.$route.params),1))}};export{p as default};

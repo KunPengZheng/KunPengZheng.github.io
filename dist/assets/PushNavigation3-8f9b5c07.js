@@ -1,1 +1,0 @@
-import{_ as o,o as r,c as s,t as e}from"./index-72b056de.js";const t={};function n(a,c){return r(),s("div",null,"DynamicNavigation3.vue: params: "+e(a.$route.params)+"， hash: "+e(a.$route.hash),1)}const u=o(t,[["render",n]]);export{u as default};

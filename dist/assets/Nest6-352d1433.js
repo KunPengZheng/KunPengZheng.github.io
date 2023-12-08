@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,b as c}from"./index-72b056de.js";const o={},n=c("h2",null," Nest6.vue ",-1),_=[n];function r(a,l){return t(),s("div",null,_)}const f=e(o,[["render",r]]);export{f as default};

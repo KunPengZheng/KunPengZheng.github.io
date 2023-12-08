@@ -1,1 +1,0 @@
-import{u as o,o as t,c as a,t as n}from"./index-72b056de.js";const p={__name:"[...notfound]",setup(r){return o(),(e,s)=>(t(),a("p",null,"[...notfound].vue："+n(e.$route.params),1))}};export{p as default};
