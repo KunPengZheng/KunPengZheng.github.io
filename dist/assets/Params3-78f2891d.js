@@ -1,0 +1,1 @@
+import{u as t,o as a,c as s,t as o,a as r}from"./index-72b056de.js";const c={style:{background:"#e08611"}},m={__name:"Params3",setup(n){const e=t();return(u,_)=>(a(),s("div",c,"路径参数正则表达式："+o(r(e).params),1))}};export{m as default};

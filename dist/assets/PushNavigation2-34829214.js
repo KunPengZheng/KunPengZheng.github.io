@@ -1,0 +1,1 @@
+import{_ as r,o,c as t,t as e}from"./index-72b056de.js";const n={};function s(a,c){return o(),t("div",null,"DynamicNavigation2.vue: params: "+e(a.$route.params)+"， query: "+e(a.$route.query),1)}const u=r(n,[["render",s]]);export{u as default};

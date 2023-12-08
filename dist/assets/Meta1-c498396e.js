@@ -1,0 +1,1 @@
+import{u as r,r as s,o as n,c as u,b as t,t as a,d as c,F as l}from"./index-72b056de.js";const d={__name:"Meta1",setup(m){return r(),(e,p)=>{const o=s("router-view");return n(),u(l,null,[t("p",null,"Meta1.vue_matched："+a(e.$route.matched),1),t("p",null,"Meta1.vue_meta："+a(e.$route.meta),1),c(o)],64)}}};export{d as default};

@@ -1,0 +1,1 @@
+import{o as n,c as u,t}from"./index-72b056de.js";const o={},r={__name:"UnpluginVueRouter2",setup(a){return(e,p)=>(n(),u("p",null,"UnpluginVueRouter2.vue："+t(e.$route.meta)+"，"+t(e.$route.name),1))}};typeof o=="function"&&o(r);export{r as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,b as s,t as c}from"./index-72b056de.js";const o={};function r(n,l){return t(),a("div",null,[s("h2",null," Alias3 "+c(this.$route.path),1)])}const _=e(o,[["render",r]]);export{_ as default};

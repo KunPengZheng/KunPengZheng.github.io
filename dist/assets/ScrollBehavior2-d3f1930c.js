@@ -1,0 +1,1 @@
+import{o as t,c as s,g as a,F as n,b as i,t as c}from"./index-72b056de.js";const _={__name:"ScrollBehavior2",setup(l){const o=[];for(let e=0;e<80;e++)o.push({position:e,id:e});return(e,p)=>(t(),s(n,null,a(o,r=>i("p",{key:r.id},"我是ScrollBehavior2.vue："+c(r.position),1)),64))}};export{_ as default};

@@ -1,0 +1,1 @@
+import{_ as r,o as n,c as o,b as s,t as a}from"./index-72b056de.js";const t={};function c(e,m){return n(),o("div",null,[s("h2",null,"Name1.vue：params："+a(e.$route.params)+"，name："+a(e.$route.name),1)])}const u=r(t,[["render",c]]);export{u as default};

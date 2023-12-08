@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,t as o}from"./index-72b056de.js";const r={};function c(a,s){return t(),n("div",null,"DynamicNavigation4.vue："+o(a.$route.params),1)}const _=e(r,[["render",c]]);export{_ as default};

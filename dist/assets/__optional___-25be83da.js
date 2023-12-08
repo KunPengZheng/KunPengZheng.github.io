@@ -1,0 +1,1 @@
+import{u as o,o as t,c as a,t as r}from"./index-72b056de.js";const u={__name:"[[optional]]+",setup(s){return o(),(e,n)=>(t(),a("p",null,"[[optional]]+.vue："+r(e.$route.params),1))}};export{u as default};

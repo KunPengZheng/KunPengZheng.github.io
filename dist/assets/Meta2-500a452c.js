@@ -1,0 +1,1 @@
+import{_ as o,r,o as a,c as n,b as s,t as c,d as _,F as l}from"./index-72b056de.js";const u={};function m(e,p){const t=r("router-view");return a(),n(l,null,[s("p",null,"Meta2.vue："+c(e.$route.meta),1),_(t)],64)}const d=o(u,[["render",m]]);export{d as default};
