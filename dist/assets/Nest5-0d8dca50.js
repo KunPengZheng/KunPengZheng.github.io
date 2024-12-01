@@ -1,1 +1,0 @@
-import{_ as s,r as e,o as n,c as r,d as t,b as o}from"./index-db1a8184.js";const a={},u=o("h2",null," Nest5.vue ",-1);const c=s(a,[["render",function(s,o){const a=e("router-view");return n(),r("div",null,[u,t(a)])}]]);export{c as default};

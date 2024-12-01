@@ -1,1 +1,0 @@
-import{u as a,w as s,o as r,c as t,t as e,a as m}from"./index-db1a8184.js";const o={style:{background:"#90EE90"}},n={__name:"Params1",setup(n){const p=a();return s((()=>p.params),((a,s)=>{})),(a,s)=>(r(),t("div",o,"Param路径参数："+e(m(p).params),1))}};export{n as default};

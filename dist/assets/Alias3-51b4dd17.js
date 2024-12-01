@@ -1,1 +1,0 @@
-import{_ as s,o as t,c as a,b as n,t as r}from"./index-db1a8184.js";const e=s({},[["render",function(s,e){return t(),a("div",null,[n("h2",null," Alias3 "+r(this.$route.path),1)])}]]);export{e as default};

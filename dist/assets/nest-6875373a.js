@@ -1,1 +1,0 @@
-import{_ as s,r as n,o as e,c as r,d as t,F as a,b as o}from"./index-db1a8184.js";const u={},c=o("p",null,"嵌套父路由 nest.vue",-1);const l=s(u,[["render",function(s,o){const u=n("router-view");return e(),r(a,null,[c,t(u)],64)}]]);export{l as default};

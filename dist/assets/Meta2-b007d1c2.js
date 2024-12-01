@@ -1,1 +1,0 @@
-import{_ as a,r as e,o as s,c as t,b as r,t as n,d as o,F as u}from"./index-db1a8184.js";const l=a({},[["render",function(a,l){const c=e("router-view");return s(),t(u,null,[r("p",null,"Meta2.vue："+n(a.$route.meta),1),o(c)],64)}]]);export{l as default};

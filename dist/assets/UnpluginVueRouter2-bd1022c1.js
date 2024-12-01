@@ -1,1 +1,0 @@
-import{o as e,c as t,t as u}from"./index-db1a8184.js";const n={},o={__name:"UnpluginVueRouter2",setup:n=>(n,o)=>(e(),t("p",null,"UnpluginVueRouter2.vue："+u(n.$route.meta)+"，"+u(n.$route.name),1))};"function"==typeof n&&n(o);export{o as default};
