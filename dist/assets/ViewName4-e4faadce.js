@@ -1,1 +1,0 @@
-import{_ as n,r as e,o as r,c,d as t,e as s,f as _,F as i,b as m}from"./index-72b056de.js";const l={},d=m("div",null,"ViewName4.vue",-1);function u(f,v){const o=e("router-link"),a=e("router-view");return r(),c(i,null,[d,t(o,{to:"/viewNamePath/viewNameChildrenPath"},{default:s(()=>[_("嵌套命名视图：")]),_:1}),t(a,{name:"viewName5"})],64)}const N=n(l,[["render",u]]);export{N as default};

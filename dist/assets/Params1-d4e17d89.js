@@ -1,1 +1,0 @@
-import{u as e,w as o,o as r,c,t as n,a as u}from"./index-72b056de.js";const l={style:{background:"#90EE90"}},p={__name:"Params1",setup(_){const a=e();return o(()=>a.params,(s,t)=>{console.log("watch监听器监听路径参数变数：",s)}),(s,t)=>(r(),c("div",l,"Param路径参数："+n(u(a).params),1))}};export{p as default};

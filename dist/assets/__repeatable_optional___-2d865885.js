@@ -1,1 +1,0 @@
-import{u as a,o as t,c as o,t as r}from"./index-72b056de.js";const n={__name:"[[repeatable_optional]]+",setup(p){return a(),(e,s)=>(t(),o("p",null,"[[repeatable_optional]]+.vue："+r(e.$route.params),1))}};export{n as default};

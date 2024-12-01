@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,t as a}from"./index-72b056de.js";const r={},c={style:{background:"#ee90c2"}};function o(n,_){return t(),s("div",c,"Params多路径参数："+a(this.$route.params),1)}const m=e(r,[["render",o]]);export{m as default};
